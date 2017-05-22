@@ -44,15 +44,15 @@ OffensivePlayer(String name, int age, int number, String team, double height, in
 			String message = "";
 			switch(r)
 			{
-			case 0: message = " Dances and squeels like a 5 year old girl";
+			case 0: message = " Points his finger to the sky";
         	break;
-		case 1: message = " Prances like a pregnant yak";
+		case 1: message = " Throwing up the peace sign";
     		break;
-		case 2: message = " Smiles with a manley grin";
+		case 2: message = " Moonwalks 5 pace and does a back flip";
     		break;
 		case 3: message = " Jumps up and down then plays it off";
     		break;
-		case 4: message = " Grunts";
+		case 4: message = " The Tim Tebow kneeling bobblehead";
 	        		break;
 			}
 			

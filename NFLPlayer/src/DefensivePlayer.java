@@ -38,15 +38,15 @@ public class DefensivePlayer extends NFLPlayer implements Celebrator
 		int r = new Random().nextInt(4);
 		String message = "";
 		switch(r){
-		case 0: message = " Dances and squeels like a 5 year old girl";
+		case 0: message = " The Tim Tebow kneeling bobblehead";
     	break;
-	case 1: message = " Prances like a pregnant yak";
+	case 1: message = " Moonwalks 5 pace and does a back flip";
 		break;
-	case 2: message = " Smiles with a manley grin";
+	case 2: message = " Throwing up the peace sign";
 		break;
-	case 3: message = " Jumps up and down then plays it off";
+	case 3: message = " Give his friends a high five";
 		break;
-	case 4: message = " Grunts";
+	case 4: message = " Points his finger to the sky";
         		break;
 		}
 		return message;
